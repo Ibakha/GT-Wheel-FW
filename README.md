@@ -1,2 +1,2 @@
 # GT-Wheel Firmware
-This Firmware is based on zephyr
+This GT-Wheel Firmware is based on zephyr
