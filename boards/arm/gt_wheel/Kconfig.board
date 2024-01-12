@@ -1,0 +1,8 @@
+# DIY Ibakha GT-Wheel board configuration
+
+# Copyright (c) 2020 Paul M. Bendixen
+# SPDX-License-Identifier: Apache-2.0
+
+config BOARD_IBA_GT_WHEEL
+	bool "Ibakha DIY GT-Wheel Board"
+	depends on SOC_STM32F303XE

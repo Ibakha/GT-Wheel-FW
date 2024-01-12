@@ -1,0 +1,14 @@
+identifier: iba_gt_wheel
+name: Ibakha GT-Wheel
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
+  - xtools
+ram: 80
+flash: 512
+supported:
+  - gpio
+  - counter
+  - spi
